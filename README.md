@@ -1,7 +1,7 @@
 # Unsupervised Data Augmentation
 
-Unsupervised Data Augmentation (UDA) for pytorch.
+Unofficial implementation of Unsupervised Data Augmentation (UDA) for pytorch.
 
 - https://arxiv.org/abs/1904.12848
 
-Coming soon.
+It is not work. Comming soon!
