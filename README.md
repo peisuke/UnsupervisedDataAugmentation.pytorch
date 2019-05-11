@@ -1,4 +1,4 @@
-# UnsupervisedDataAugmentation.pytorch
+# Unsupervised Data Augmentation
 
 Unsupervised Data Augmentation (UDA) for pytorch.
 
